@@ -1,17 +1,5 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <appHeader></appHeader>
+  <div>
+    <h1>This is home</h1>
   </div>
 </template>
-
-<script>
-import Header from '@/components/shared/Header.vue'
-
-export default {
-  name: 'home',
-  components: {
-    appHeader: Header
-  }
-}
-</script>

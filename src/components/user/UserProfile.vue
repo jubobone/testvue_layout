@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h1>This is a find page</h1>
+        <h1>Name : name</h1>
     </div>
 </template>
